@@ -1,0 +1,15 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"html/home.html"
+		],
+		"refer": [
+			"html/settings.html",
+			"html/message.html",
+			"html/home.html"
+		]
+	}
+}
